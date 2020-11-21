@@ -1,0 +1,21 @@
+##############################################################################################
+           INDIA                 RAILWAYS           WELCOME                YOU
+##############################################################################################
+1: KONGOO MAIL                                3A/2A/SL                   CNF PROB.96%         MON TO SAT
+2: SARNATH EXP.                               1A/2A/3A                   CNF PROB.45%          ALL  DAY
+3: VIBUTI EXP..                                SL/3A                     CNF PROB.16%         MON TO FRI
+4: HUMSAFAR                                      3A                       AVAILABLE            ALL DAY
+5: KRISHNDEV S.F.EXP                          3A/2A/SL                    AVAILABLE            SAT ONLY
+6: PATNA  DELHI RAJDHANI                       2A/1A                      AVAILABLE            ALL DAY
+7: SANGHAMITRA                                SL/3A/2A                   CNF PROB.78%          ALL DAY
+8: TEJASVI EXP                                  SL/3A                     AVAILABLE              TUE 
+##############################################################################################
+                   FOR MORE INFO. DIAL TOLL FREE NO. 139
+##############################################################################################
+
+PRESS "ESC" TO EXIT::
+
+PRESS "BACK SPACE" TO GO BACK::
+
+PRESS "ENTER" TO CONFIRM::
+
